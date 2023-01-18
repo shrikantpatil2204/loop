@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <body>
 
@@ -9,4 +9,4 @@ echo "hello this is shrikant";
 ?>
 
 </body>
-</html> 
+</html>  
