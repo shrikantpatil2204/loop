@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h1>My first PHP page</h1>
+<h1>My first PHP page using OpenShift S2I</h1>
 
 <?php
-echo "Hello this is my web page1";
+echo "Hello from shri";
 ?>
 
 </body>
