@@ -5,7 +5,7 @@
 <h1>My first PHP page using OpenShift S2I</h1>
 
 <?php
-echo "Hello from patil";
+echo "Hello from lucifer";
 ?>
 
 </body>
