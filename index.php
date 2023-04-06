@@ -5,7 +5,7 @@
 
 <h1>My PHP page using openshift S2I </h1>
  <h2>This is updated page</h2>
-  <h3>Final commit completed</h3>
+
 <?php
 echo "Hello from shri";
 ?>
